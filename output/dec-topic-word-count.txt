@@ -1,0 +1,1809 @@
+0 massey 2:148 0:1
+1 tunnel 2:281 8:39 0:36 7:11
+2 replac 2:133 0:21
+3 sever 8:11 0:4
+4 report 2:49 0:37 8:23
+5 span 2:9 8:1 3:1
+6 thousand 8:2 4:1 2:1 3:1
+7 page 0:8 9:3 8:3
+8 includ 2:41 1:11 3:9 5:2 8:1
+9 cost 9:28 2:23 8:7 5:3
+10 analysi 3:11 9:10 8:9
+11 altern 2:34 9:1 7:1
+12 compil 8:5 0:3
+13 overal 8:2 6:2 1:2 0:2
+14 volum 8:2 2:2 3:1
+15 titl 8:2
+16 safeti 0:11 7:10 8:6 1:1
+17 econom 8:7 9:3 7:2 2:2 0:1
+18 imper 8:5 3:2
+19 georg 2:69 0:26
+20 project 2:241 3:25 8:3 9:2 0:1
+21 attempt 8:4
+22 corpor 8:5
+23 delta 0:87 8:44 2:17 3:11 1:8 7:4
+24 sway 8:2
+25 provinci 2:47 8:6
+26 govern 2:99 1:4 8:1
+27 sworn 8:2 6:1
+28 week 2:24
+29 delay 8:9 0:5 1:2 4:1
+30 cancel 8:6
+31 billion 2:49 9:18 8:3 6:2
+32 bridg 2:345 7:15 0:6
+33 highlight 2:6 8:1
+34 seismic 7:15 2:14 8:6 0:1
+35 concern 2:42 6:3 3:3
+36 upgrad 2:19 8:3
+37 meet 0:18 7:10 8:9 2:5
+38 today 8:5 9:1 1:1
+39 standard 7:14 8:4 9:2
+40 present 8:13
+41 condit 8:8 4:4
+42 physic 8:2
+43 capabl 8:2 2:1 7:1
+44 withstand 8:4 7:4 5:1 2:1 0:1
+45 moder 8:4 0:3
+46 earthquak 7:14 8:9 4:3 6:1
+47 result 2:6 3:5 7:4 8:1
+48 pose 8:2
+49 unaccept 8:3
+50 risk 7:12 8:8 4:1 3:1
+51 travel 1:7 8:2 5:2 3:2 7:1
+52 public 2:28 7:4 8:3
+53 respond 7:11 2:6
+54 mayor 0:50 2:40 6:31 8:18 5:13
+55 loi 2:14 0:13
+56 jackson 0:60 8:16 5:5
+57 harvi 0:18 8:12
+58 state 2:10 6:6 0:1
+59 medium 8:4
+60 monday 8:5 0:2
+61 prior 8:3
+62 discuss 8:4 2:1
+63 council 0:46 8:18
+64 urg 8:7 5:1
+65 consid 2:14 3:1
+66 catastroph 8:3 9:1
+67 implic 8:3 2:3
+68 failur 7:6 8:4 1:1
+69 devast 8:6
+70 impact 3:48 2:18 8:7
+71 region 2:47 3:34 8:11
+72 civic 8:3
+73 note 8:9 6:8 4:3 3:2 5:1
+74 complet 1:8 8:6 2:6
+75 intend 8:2 6:2 7:1
+76 reduc 1:9 8:5 5:4 3:4
+77 extent 8:2
+78 width 8:2
+79 concret 8:3 1:1
+80 crack 8:2
+81 water 3:12 5:4 8:2
+82 ingr 8:2
+83 rate 8:8 6:1
+84 motorist 7:6 8:2
+85 escap 8:2 6:1
+86 event 1:9 7:4 4:3 8:2
+87 recent 2:15 7:5 8:3
+88 woman 8:2
+89 crash 7:7 8:2 3:2
+90 wait 0:3 8:2 7:1
+91 emerg 7:5 8:2 3:1
+92 crew 8:2 7:1
+93 accid 7:3 8:2
+94 high 8:4 2:4 7:2
+95 cross 2:13 8:12 7:7 3:5 1:2
+96 someth 8:8 6:4 1:2 2:1
+97 boil 8:2
+98 polit 8:13 0:8
+99 blatant 8:2
+100 pas 8:3 1:2
+101 myth 8:2 7:2 6:2
+102 fact 7:8 8:5 6:4 4:3 5:1
+103 order 8:4 2:3
+104 kill 8:5 0:4 6:2
+105 ignor 8:4 0:1
+106 worsen 8:3
+107 congest 2:48 0:2
+108 boy 8:2
+109 club 8:2
+110 noth 8:3 5:2 9:1 0:1 7:1
+111 home 8:2
+112 realli 0:16 9:3 8:3 2:1
+113 travesti 8:2
+114 peopl 8:15 6:7 2:4 7:2
+115 economi 8:5
+116 thing 2:17
+117 twin 2:33
+118 push 9:4 8:2 2:2
+119 late 8:3 0:1
+120 richmond 2:103 3:1 0:1
+121 coun 8:15 5:2 6:1
+122 carol 5:5 8:4 4:1 1:1
+123 spread 6:3 8:2 9:1
+124 misinform 6:4 8:2
+125 reli 8:3
+126 articl 8:2
+127 popular 8:2 6:1
+128 mechan 8:2 4:1
+129 magazin 8:2
+130 comparison 8:2 9:1
+131 environment 4:21 8:8 3:8 2:6 6:1
+132 maintain 8:3 9:2
+133 current 2:13 7:12 3:5 5:1
+134 estim 2:15 8:1
+135 million 2:20 1:1 4:1
+136 price 8:4 2:3 9:2 1:2
+137 improv 1:26 2:21 3:4
+138 provinc 2:40
+139 money 2:18 8:2
+140 automat 8:2
+141 flow 8:3 5:1
+142 fraction 8:2
+143 vehicl 8:8 1:7 3:2
+144 peak 8:6 3:1
+145 period 8:5 2:5
+146 rig 8:3
+147 ban 8:2 2:2
+148 provid 3:6 8:4 4:4 2:4 1:3
+149 relief 8:3
+150 acknowledg 8:2
+151 agre 2:7 8:6 0:1
+152 point 2:17 0:1
+153 highway 1:36 8:4 7:4
+154 corridor 8:5 2:4
+155 respons 2:5 8:4 7:4 3:3
+156 purview 8:4
+157 metro 2:68 3:8 0:2
+158 vancouv 2:74 0:9 3:7
+159 agenda 2:3 8:1
+160 rest 8:3 4:1
+161 swipe 8:3
+162 admit 8:2 2:1
+163 fund 1:8 8:4 6:1
+164 surrey 0:9 1:8 8:2 7:2
+165 robert 8:2
+166 campbel 2:3
+167 describ 8:4 6:1
+168 irrespons 8:2
+169 derelict 8:2
+170 duti 8:4
+171 interest 9:7 6:7 8:2 3:2 1:2
+172 back 2:18
+173 yard 8:1
+174 bruce 8:2
+175 mcdonald 8:2
+176 intent 8:2 6:1 4:1
+177 build 2:22 5:15 9:5 7:3 4:2
+178 huge 8:4 0:2
+179 expens 8:5 2:1 9:1
+180 underground 8:2
+181 skytrain 8:2 5:1
+182 line 3:12 2:10 6:1
+183 serv 2:3 8:2 1:2
+184 student 8:2
+185 month 8:10 2:1
+186 year 2:73 7:21 9:2 6:1
+187 age 2:11 6:3
+188 jeopard 8:2
+189 industri 8:4 3:2
+190 paton 6:6 8:3
+191 elect 2:15 6:8 8:1
+192 liber 6:27 2:22
+193 south 2:24 7:1 5:1
+194 suggest 2:13
+195 give 8:3 0:3 6:2
+196 whirl 8:2
+197 sylvia 8:3 0:1
+198 bishop 8:5 0:3
+199 structur 8:5 4:4 3:3 2:3 0:1
+200 find 8:5 5:1 0:1 2:1
+201 solut 2:13 8:4
+202 uncertain 0:1 6:1
+203 futur 2:26 7:6
+204 leader 0:24 6:12 4:1
+205 defer 6:8 0:5
+206 issu 2:22 0:2
+207 green 6:17 0:16 1:3
+208 weaver 0:19
+209 cheaper 6:4 0:2
+210 parti 0:17 9:4
+211 form 0:5
+212 day 6:4
+213 make 2:27 1:5 0:2
+214 sound 6:1
+215 scrap 7:6
+216 leaf 6:2
+217 commut 2:7 1:3
+218 deal 0:4 7:1 9:1
+219 daili 6:3
+220 bottleneck 6:4 5:4 7:3 2:3
+221 unclear 6:5
+222 earlier 6:4 0:2 9:1 7:1
+223 democrat 6:7 8:1
+224 john 0:25
+225 horgan 0:33 6:21 4:1
+226 outright 2:1 0:1
+227 oppos 2:9 6:5
+228 plan 2:51 6:9 3:2 0:1
+229 alreadi 6:12 0:4
+230 opposit 2:7 0:6 6:3
+231 indic 3:5 6:2
+232 lane 2:73
+233 unnecessari 6:2 3:2
+234 interview 6:6
+235 cknw 6:1
+236 radio 2:1
+237 wednesday 1:7 3:1
+238 andrew 0:14 2:1
+239 claim 2:3 6:2 4:1
+240 part 2:11 7:2
+241 transport 2:55 3:8 0:5
+242 transfer 6:1
+243 street 2:4 8:2 6:2
+244 comprehens 9:3 3:2
+245 strategi 3:5 2:2
+246 retrofit 1:1
+247 larri 6:1
+248 colero 2:1
+249 candid 9:2 6:1
+250 belief 2:5
+251 sooner 6:2 7:1
+252 construct 2:46 1:14 3:10
+253 halt 2:4
+254 loss 3:4 7:2
+255 avoid 7:2 1:1
+256 contract 1:16
+257 commit 6:5 2:4 8:2
+258 reckless 2:1
+259 idea 2:8 0:1 1:1
+260 start 2:16 5:4 4:1 0:1
+261 squar 0:1
+262 ass 3:2 2:1
+263 option 2:18 0:17 7:2
+264 effect 4:7 3:7 2:7
+265 confid 2:6 6:3
+266 total 2:6
+267 debt 9:8
+268 quick 2:3
+269 workabl 2:1
+270 meantim 6:1
+271 restrict 9:1
+272 truck 5:13 0:1 4:1
+273 traffic 2:31 5:14 3:8
+274 rush 7:3 0:2 1:1 2:1
+275 hour 7:4 5:2 1:2 4:1 3:1
+276 disappoint 0:1
+277 ladner 7:2 2:1
+278 tsawwassen 1:4 2:1 4:1
+279 heavi 6:2 4:2 8:1
+280 everi 7:8 5:3 9:1
+281 thought 9:4 0:2
+282 work 2:29 1:26 0:6 8:1 6:1
+283 begun 0:2 1:1
+284 widen 1:2
+285 north 2:4 3:3 6:2 8:1
+286 ravi 1:2
+287 kahlon 0:11
+288 question 2:9 9:6 8:1
+289 move 2:17 0:3 5:1
+290 figur 6:3
+291 capac 7:3 6:2 3:1 2:1
+292 sens 5:3 2:3
+293 financ 9:16 2:1
+294 uncertainti 6:2
+295 lack 3:3 7:1 2:1 4:1
+296 inform 9:19 0:14 3:9 8:1
+297 review 2:15 8:5 6:4 3:4
+298 book 6:1
+299 time 2:28 7:4 1:3 0:1 3:1
+300 express 2:8 6:1
+301 frustrat 0:5 6:1
+302 stop 6:6 7:5
+303 life 7:9 6:6 5:1
+304 anoth 2:12 0:3 7:1
+305 built 2:19 4:3 5:1
+306 wast 3:2 2:2 8:1 5:1 6:1
+307 talk 6:21 0:2 1:1
+308 program 6:2
+309 pattullo 7:5 6:3 2:1
+310 rapid 7:7 6:3
+311 transit 7:29 2:20 6:5 0:1
+312 fewer 0:3 7:1
+313 farm 1:2
+314 river 3:25 5:21 1:9 6:3 4:3 0:3 7:2
+315 compar 2:4 4:1
+316 offici 2:11 9:2 0:2
+317 warn 2:1
+318 strong 2:5
+319 render 2:2 1:1
+320 useless 6:1
+321 destroy 7:1 5:1
+322 leav 6:2 1:1
+323 neighbour 0:1 8:1
+324 direct 3:9 6:4 1:4
+325 job 1:3
+326 creat 1:4 0:3 7:2 5:1
+327 defend 9:2 0:2
+328 support 2:34 5:6 6:4
+329 propos 2:28 3:12 5:1
+330 caus 7:3 0:1 2:1
+331 harm 2:5 3:1
+332 environ 3:8 4:5 5:1 2:1
+333 continu 2:13 9:2 7:1
+334 fraser 5:17 3:15 7:12 2:11
+335 comment 5:6 2:3 6:2 9:1
+336 short 5:7 2:3
+337 citi 2:26 5:2
+338 staff 0:12 3:2 1:2
+339 possibl 3:6 9:4 8:2 5:1 2:1
+340 lone 5:1 0:1
+341 reject 2:6
+342 run 2:2 5:1 6:1
+343 beneath 5:2
+344 link 2:7
+345 argu 2:6
+346 becom 5:4 8:3 9:1
+347 unsound 5:2 9:1
+348 anyth 0:4
+349 chang 3:14 2:7 0:3 8:1
+350 mind 5:2 7:1 3:1
+351 gloria 5:2 0:1
+352 macarenko 5:3
+353 host 2:3 3:2 5:1
+354 coast 5:4 0:1
+355 becam 0:1
+356 environmentalist 5:1
+357 expand 2:3 3:2 0:1
+358 marin 3:3 5:2 7:1
+359 wors 2:1
+360 popul 2:2
+361 increas 3:8 2:4 8:1
+362 nation 1:7
+363 local 2:16 3:2
+364 port 5:13 1:4 7:2 0:1
+365 earli 2:5
+366 groundwork 5:1
+367 underway 1:6 9:1
+368 prepar 1:16 5:4 8:1
+369 victoria 5:3
+370 fall 5:3
+371 jurisdict 6:3 5:1
+372 unlik 5:3 6:2
+373 mani 2:10 3:3 9:1 1:1
+374 oper 8:2 2:1 3:1
+375 translink 5:8 6:1 1:1 9:1
+376 network 2:8
+377 premier 0:24 2:8
+378 design 3:10 0:6 4:3 6:2 2:2 7:1
+379 lead 0:3 3:2
+380 road 1:13 7:4 3:3 6:2 2:2
+381 decreas 1:1
+382 disagre 2:3
+383 made 2:13 0:2
+384 councillor 2:9
+385 bring 0:6 4:1
+386 packag 7:3 6:1
+387 show 2:8 9:3
+388 consult 2:24 9:1
+389 lower 5:8 3:5 6:1
+390 mainland 6:4 5:4 2:2
+391 mlas 0:4
+392 ratifi 0:1
+393 agreement 2:1
+394 pledg 2:1
+395 togeth 0:6 2:1
+396 minor 6:4
+397 potenti 3:14 2:7
+398 press 0:3
+399 confer 6:1
+400 cast 8:1
+401 doubt 0:2
+402 allianc 6:5 5:1
+403 commenc 6:2 2:1
+404 promis 6:1 7:1
+405 suspend 6:2 0:2
+406 put 6:3
+407 hand 1:3 0:3 6:2 5:1
+408 news 9:4 6:3
+409 propon 1:2 2:1
+410 wholeheart 6:2
+411 stand 6:5
+412 alon 0:1
+413 vision 1:2 6:1
+414 long 9:6 2:6 6:3
+415 term 7:5 9:4 6:1 8:1
+416 accord 2:11 9:3 0:2
+417 remain 6:4 1:4 8:2
+418 bigger 6:1
+419 farmland 5:7
+420 track 6:1 0:1
+421 unfortun 6:2 5:1
+422 coverag 6:1
+423 area 3:8 6:6 4:2 0:1
+424 decis 0:7 2:5 6:4 8:1 4:1
+425 base 3:3 0:3
+426 listen 0:3 6:2
+427 hope 0:20 5:1
+428 scientif 7:2 6:2
+429 engin 2:9 0:5 4:4
+430 wise 2:1
+431 care 0:1 7:1
+432 studi 2:21 3:1
+433 posit 2:4 9:1 0:1 6:1
+434 spoken 2:2 5:1
+435 democraci 0:2
+436 feel 8:2
+437 privi 6:1
+438 associ 3:4 1:4 6:3 9:2
+439 import 2:10 3:6 7:1
+440 limit 7:2 3:2 6:1 5:1 2:1
+441 left 6:1 9:1
+442 procur 6:1 2:1
+443 exercis 6:1
+444 final 5:4 3:3 6:2 1:1
+445 number 2:5 4:3
+446 ensur 0:3 8:2 4:2 3:2
+447 tie 6:1
+448 messag 6:1
+449 convey 6:2
+450 repres 2:5 6:3
+451 jordan 6:1
+452 bateman 0:3
+453 communic 0:1
+454 director 2:5 4:1
+455 independ 6:1
+456 contractor 9:6 6:1 1:1
+457 busi 0:5 3:4 5:3 2:2 9:1 1:1
+458 told 2:7 0:1
+459 optimist 0:3 4:2 6:1 3:1
+460 found 6:1 3:1 2:1 1:1
+461 discourag 0:1
+462 touch 6:1 8:1
+463 situat 2:2 0:2
+464 ground 4:5 1:4 6:2
+465 spent 0:5 6:2
+466 simpli 6:1 9:1 3:1
+467 dismiss 2:1
+468 power 0:9 8:1 6:1
+469 word 6:2
+470 westminst 5:2 6:1
+471 coquitlam 6:2
+472 ride 6:2
+473 suppos 6:1 0:1 2:1 5:1
+474 negat 2:7 0:1
+475 affect 3:3 2:3
+476 expans 0:4 2:1
+477 anyon 2:3 9:2
+478 nonsens 6:1
+479 champion 2:2
+480 snicker 0:1
+481 blue 0:1
+482 collar 5:1
+483 worker 5:2
+484 anticip 3:3 7:1 0:1
+485 asset 3:5 8:1 5:1
+486 infrastructur 2:28 3:5 9:4 8:1
+487 legisl 3:2 0:2 6:1
+488 avail 9:4 3:2
+489 regard 3:4 0:4 4:1
+490 qualiti 3:16
+491 climat 3:4
+492 level 3:4 7:2
+493 emiss 3:6
+494 common 3:1 5:1
+495 pollut 3:4
+496 toxic 3:1
+497 greenhous 3:4 5:1
+498 gas 3:1
+499 vicin 3:1
+500 exposur 3:1
+501 shed 3:2
+502 smog 3:1
+503 visual 3:2
+504 relat 3:7 1:3 5:2 0:2 9:1
+505 inadequ 6:1 3:1 0:1
+506 examin 2:4 3:1 5:1
+507 broader 3:1
+508 system 3:8 9:1
+509 rang 3:2
+510 scenario 3:2 5:1
+511 address 2:14 0:3 5:1
+512 critic 3:8 6:3 1:1 0:1
+513 select 3:1
+514 moti 3:7
+515 applic 3:3
+516 compris 3:1 2:1
+517 step 0:2 3:1
+518 pathway 1:4 5:1
+519 human 3:3
+520 health 3:5 7:1
+521 identifi 3:2
+522 ultim 3:1
+523 receptor 3:1
+524 statement 2:9 9:3 8:1
+525 respect 3:1 2:1
+526 consequenti 3:1
+527 basi 0:3 3:2
+528 hydro 3:7
+529 transmiss 3:9
+530 reloc 3:10
+531 decommiss 3:5 1:3 8:1
+532 land 3:15 7:3
+533 ecolog 3:5
+534 fish 3:6
+535 wildlif 3:4
+536 habitat 3:13
+537 estuari 3:6
+538 singl 3:1
+539 aquat 2:2
+540 bird 3:4
+541 raptor 3:2
+542 british 1:4 2:2
+543 columbia 1:3 3:1 6:1
+544 dea 3:7
+545 island 3:8
+546 largest 1:5 3:2 5:1
+547 signific 2:12 3:3
+548 coloni 3:1
+549 intertid 3:1
+550 marsh 3:1
+551 rear 3:1
+552 juvenil 3:1
+553 salmon 3:2 5:1 1:1
+554 acoust 3:2
+555 ambient 3:3
+556 induc 3:1
+557 turbid 1:1
+558 riverb 3:1
+559 scour 3:1
+560 mortal 3:2
+561 disturb 3:4
+562 upland 3:1
+563 destruct 3:1 5:1
+564 passerin 3:1
+565 nest 3:1
+566 terrestri 3:1
+567 veget 3:2
+568 clear 7:3 6:2
+569 grub 3:1
+570 strip 3:1
+571 soil 2:6 1:5 3:2
+572 excav 3:1
+573 indirect 3:2
+574 cumul 3:2 2:1 9:1
+575 impervi 3:1
+576 surfac 3:1 4:1
+577 stormwat 3:1 1:1
+578 runoff 3:1
+579 enter 3:1
+580 concentr 3:1
+581 nutrient 3:1
+582 organ 3:1 8:1
+583 metal 3:1
+584 chlorid 3:1
+585 bacteria 3:1
+586 hydrocarbon 3:1
+587 reduct 3:3
+588 exist 2:30 7:2
+589 perman 3:4
+590 placement 1:5
+591 stream 3:1
+592 pier 3:2 7:1
+593 slough 3:3
+594 adjac 3:3 1:2
+595 temporari 3:1
+596 alter 1:1
+597 main 3:13 1:4
+598 bat 3:1
+599 nois 1:5 3:1
+600 light 3:4 2:3
+601 introduct 3:1
+602 invas 3:1 7:1
+603 speci 3:1
+604 equip 7:2 3:1
+605 agricultur 3:7 7:4 1:2
+606 valu 3:1 1:1 5:1
+607 addit 3:5 8:3 2:2 9:1
+608 dredg 3:7 5:4 7:1
+609 follow 1:4 9:3 4:3 3:3 0:2
+610 rais 9:2 3:1 4:1
+611 occur 3:3
+612 littl 3:1 4:1
+613 gvwd 3:1
+614 incom 0:2 5:1
+615 forward 0:14 2:3
+616 open 1:6 2:4 0:3 4:2 7:1
+617 debat 0:4 6:3
+618 chief 0:8
+619 administr 9:2 0:2 7:1
+620 offic 4:5 0:4
+621 recommend 0:7 2:2
+622 commiss 0:1 7:1
+623 profession 8:3 4:1
+624 code 7:2
+625 technic 7:12 9:4 4:2 8:1
+626 feasibl 7:4 8:3
+627 updat 1:2 2:1
+628 complex 8:1
+629 damag 7:4 0:1
+630 read 7:5 5:1
+631 evalu 0:1
+632 conclus 7:1
+633 began 0:3 9:2 1:1
+634 spring 0:2
+635 fate 7:1
+636 limbo 0:1
+637 folk 0:2
+638 municip 2:17
+639 hall 1:6 0:4
+640 initi 8:2
+641 aliv 7:1
+642 wolf 7:1
+643 effort 0:3
+644 convinc 0:6
+645 carri 7:6
+646 controversi 9:4
+647 focus 0:3 6:2 3:1
+648 persuas 7:2
+649 safeguard 8:1
+650 shortcom 0:1
+651 round 7:1 1:1
+652 compel 0:2
+653 evid 9:2 7:1
+654 coupl 7:1
+655 stood 7:1
+656 sober 6:1
+657 content 9:1 2:1
+658 decad 7:3 3:1
+659 phase 2:3 0:3
+660 undertaken 0:1 4:1
+661 abl 0:5
+662 favourit 0:1
+663 ralli 7:1
+664 oppon 2:3 4:1 8:1
+665 greater 0:6 3:1
+666 longer 0:2 1:1 5:1
+667 necessari 7:1 4:1 9:1
+668 approv 0:11 1:4 2:1
+669 face 7:3
+670 explain 8:1 5:1 4:1 7:1
+671 person 0:3
+672 abandon 8:1 0:1
+673 live 5:5 7:2 6:1
+674 rock 0:3 8:2
+675 perhap 7:1
+676 cambi 8:1
+677 biggest 8:3
+678 accept 0:1 7:1 1:1
+679 action 7:3 2:1
+680 requir 7:7 3:3 4:2 8:1
+681 argument 8:2 6:1
+682 guess 0:1
+683 succeed 7:1
+684 trump 8:1
+685 data 0:1
+686 immin 7:2
+687 shown 9:4 3:2
+688 fair 7:1
+689 major 1:14 7:11 4:3 6:2
+690 chanc 7:5 0:2
+691 quak 7:4
+692 magnitud 7:4
+693 probabl 7:2 3:1
+694 exceed 3:1 7:1
+695 nisqual 7:1
+696 collis 7:7
+697 higher 2:2 7:1 9:1
+698 averag 7:8
+699 tend 8:1
+700 annual 8:2
+701 injuri 7:1 0:1
+702 fatal 7:2
+703 experi 3:6 7:1
+704 displac 7:1
+705 incid 7:1
+706 provis 7:2
+707 shoulder 7:2
+708 difficult 7:2 3:1 9:1
+709 reach 7:2 4:1 0:1
+710 forc 7:1 6:1
+711 case 9:5 7:3 4:2 0:1
+712 foot 4:6 9:1
+713 smoke 7:1
+714 fire 7:2
+715 hazard 7:1
+716 confin 7:2
+717 space 7:4
+718 grade 8:1
+719 vital 7:1 5:1
+720 lifelin 7:3
+721 ambul 7:1
+722 trip 7:6 1:1
+723 siren 3:1
+724 entir 8:4 0:3 9:1
+725 approxim 1:4 7:1
+726 alex 7:5 5:2 1:1
+727 spare 7:1
+728 centr 8:1 3:1
+729 mann 7:4
+730 liquefact 7:1 4:1
+731 upper 7:1
+732 sand 4:3 7:1
+733 deposit 3:1
+734 movement 7:2 1:1
+735 foundat 4:6
+736 distort 3:1 9:1
+737 tube 2:2
+738 disrupt 2:4
+739 unbear 7:1
+740 compon 3:4
+741 essenti 3:1 9:1 6:1
+742 asia 7:1
+743 pacif 3:1
+744 trade 0:8 5:2 7:1
+745 paralysi 8:1
+746 passeng 7:1 1:1
+747 rider 2:1
+748 minut 3:2 2:2
+749 downtown 7:1 2:1
+750 dedic 7:5 2:4
+751 integr 3:3 4:2 7:1
+752 ramp 7:3 1:2
+753 pedestrian 7:8
+754 cyclist 7:8
+755 facil 3:1
+756 connect 7:5 1:4 3:3
+757 cycl 7:4 1:1
+758 broken 7:1
+759 bike 1:2 7:1
+760 shuttl 7:3
+761 weekend 1:3 7:1
+762 winter 7:2
+763 ineffici 3:1
+764 factor 7:2 6:1
+765 gap 4:2
+766 depart 4:1
+767 benefit 9:11 1:5
+768 assess 4:16 2:6 1:2
+769 omiss 2:1
+770 unsubstanti 2:1
+771 predict 1:2
+772 malcolm 2:5
+773 brodi 2:7
+774 fail 5:3 9:1
+775 call 2:10 4:2
+776 semi 9:1
+777 trailer 4:1
+778 eas 5:4 9:1
+779 real 9:2 7:1 2:1
+780 june 2:5
+781 cite 4:2 2:1
+782 hous 2:6 5:1
+783 full 4:2 2:2 8:1
+784 releas 9:18 1:4 2:1 0:1
+785 tuesday 8:4
+786 outsid 9:1 5:1 1:1 8:1
+787 hotel 2:1
+788 held 2:1 1:1
+789 protest 1:8 2:1
+790 disagr 9:1
+791 detail 9:11 3:3 1:1
+792 rip 9:1
+793 obvious 9:2 1:1
+794 insid 1:2
+795 hole 9:2
+796 materi 1:2 4:1 7:1
+797 manag 3:4 4:2 5:1 6:1
+798 geoff 2:1
+799 freer 2:1
+800 schedul 1:2 9:1
+801 begin 1:9 7:4 2:4
+802 minist 0:17 1:15 4:3
+803 pitch 0:2
+804 toll 1:18 9:4
+805 answer 2:4 7:1 3:1
+806 instanc 7:2
+807 close 1:3 3:2 5:1
+808 site 1:14 4:2 7:1 3:1
+809 walk 1:2
+810 polic 0:4 2:1
+811 spokeswoman 7:1
+812 sharlen 1:1
+813 brook 7:2
+814 challeng 7:2 4:2 5:1
+815 block 0:1 5:1
+816 access 7:9 2:5
+817 death 8:1
+818 general 9:4 5:2 1:1
+819 driver 5:5 1:4
+820 written 1:2
+821 todd 1:10 9:1 8:1
+822 stone 1:25 9:3 6:2
+823 drop 7:1
+824 cent 1:6 7:3 5:1
+825 reason 7:4 9:2
+826 ahead 7:4 2:3
+827 expect 2:23
+828 safer 7:7 5:1
+829 hold 4:2 6:1 5:1
+830 firm 4:2
+831 ministri 4:19 7:3 1:1
+832 assur 4:1
+833 request 2:7 9:3
+834 sheet 4:2
+835 geotechn 4:3
+836 soft 4:3 1:2
+837 side 5:5 1:3 6:2 4:1
+838 deltaic 4:1
+839 develop 2:5 1:2 4:1
+840 hone 4:1
+841 centuri 2:1
+842 document 9:10 3:2 2:1 5:1
+843 letter 2:7 4:6 7:2
+844 retir 4:2 2:1
+845 morrison 4:3
+846 reiter 2:3 0:1
+847 skyrocket 9:1
+848 prevent 4:2
+849 altogeth 4:1 6:1
+850 similar 7:2 4:2 3:1
+851 resid 0:2 4:1 3:1 5:1
+852 submit 7:2 4:2
+853 borehol 4:1
+854 drill 4:1
+855 shore 4:1
+856 depth 4:3
+857 metr 4:5
+858 bedrock 4:2
+859 geolog 4:2
+860 survey 4:2
+861 canada 4:4 7:3
+862 paper 4:1
+863 disput 4:1
+864 waterlog 4:1
+865 pile 4:4 9:1
+866 penetr 4:1
+867 bottom 4:1 6:1
+868 thick 4:2
+869 extens 2:6 4:2
+870 layer 4:2
+871 hard 0:3 4:1
+872 dens 4:2
+873 clay 4:1
+874 gravel 4:1
+875 strength 9:1
+876 storey 4:1
+877 francisco 4:1
+878 lean 4:1
+879 howev 2:11
+880 scale 9:2
+881 test 4:1
+882 subsurfac 4:1
+883 sinc 2:7 6:1
+884 confirm 4:1 7:1 3:1 0:1
+885 load 1:4
+886 spoil 4:1
+887 hundr 2:4 4:1
+888 liquefi 6:1 4:1 0:1
+889 appropri 8:1 6:1
+890 deep 4:1 5:1
+891 world 5:7 2:1 0:1 1:1 3:1
+892 tremend 1:2
+893 amount 1:2 5:1
+894 vulner 7:2 1:1
+895 safe 7:3 5:3 0:1
+896 modern 7:2 1:1
+897 generat 1:1
+898 award 1:13
+899 drainag 1:1
+900 advanc 1:4
+901 constructor 1:3 0:2 2:1
+902 excit 1:1 5:1
+903 small 7:1
+904 histori 1:2 9:1
+905 chad 1:1
+906 tenney 1:1
+907 vice 1:1 3:1
+908 presid 2:4 0:1
+909 good 5:5 7:4
+910 employe 1:1
+911 famili 7:3
+912 civil 1:2 0:1
+913 bridgeport 1:6
+914 steveston 1:9
+915 ditch 7:1 2:1 8:1
+916 immedi 5:5 1:2
+917 practic 1:1 5:1
+918 compress 1:1
+919 minim 7:2
+920 settlement 7:1
+921 process 2:11 9:3 4:1
+922 prefer 2:4
+923 chosen 1:4
+924 summer 1:5 2:2 9:1
+925 place 5:4 4:3 1:3
+926 proceed 2:5 1:3
+927 certif 4:2 1:1
+928 receiv 1:3
+929 appreci 4:1 3:1
+930 input 7:2 9:1
+931 farmer 1:2
+932 institut 1:2
+933 inclus 7:1 6:1
+934 solidifi 1:1
+935 relationship 1:1
+936 enhanc 1:2
+937 viabil 1:1
+938 half 7:4
+939 reliabl 1:4
+940 multi 1:3 7:1
+941 viabl 2:5
+942 brought 7:2 1:2
+943 unus 7:2
+944 merg 7:1
+945 wider 1:1
+946 juli 0:15
+947 endors 0:10
+948 outlin 0:2 7:1 8:1 4:1 6:1
+949 pertain 8:1 3:1 9:1
+950 boon 9:1
+951 kilometr 3:2 5:1 9:1 2:1
+952 occup 2:3
+953 christi 0:11 9:1
+954 clark 6:11 0:4 9:3 8:2
+955 silent 7:4
+956 counter 7:1 0:1
+957 offer 8:2
+958 victor 0:3
+959 author 7:1 4:1
+960 write 2:1 0:1 4:1
+961 normal 7:1
+962 eventu 0:2 1:1
+963 convert 2:2
+964 rail 2:3 8:1
+965 exclus 0:1
+966 bus 2:3
+967 vote 2:12
+968 favour 7:6
+969 date 0:1 9:1
+970 communiti 6:2 1:2 7:1 4:1
+971 stakehold 2:9
+972 engag 2:1
+973 scope 6:2 1:1
+974 user 1:1
+975 partnership 7:1
+976 explor 2:4
+977 definit 0:3 2:2 3:1
+978 ongo 7:3 1:1
+979 group 1:3 3:1
+980 grow 7:3
+981 recogn 2:5
+982 forecast 7:1 6:1
+983 demand 1:1 3:1
+984 invest 2:6
+985 lengthen 0:1
+986 locat 3:3 5:2
+987 save 1:3 6:1 2:1
+988 commerc 0:6
+989 distribut 7:1 3:1
+990 interchang 1:7 3:1 5:1
+991 conveni 1:1
+992 portion 2:2 1:1
+993 park 3:13
+994 separ 7:1
+995 filtrat 7:1
+996 fuel 1:1
+997 consumpt 1:1
+998 idl 3:4 1:2
+999 barg 5:7
+1000 longshoreman 5:2
+1001 everyth 5:2 8:1 7:1
+1002 easier 5:4
+1003 everyon 5:3 6:1
+1004 terri 5:2
+1005 engler 5:12
+1006 union 5:2
+1007 nearbi 5:2 1:2 8:1
+1008 termin 5:7
+1009 intern 7:1 5:1 9:1
+1010 longshor 5:1
+1011 warehous 5:2
+1012 guest 5:2 8:1
+1013 stuck 5:1 7:1
+1014 heel 5:1
+1015 remark 5:1
+1016 renew 5:2
+1017 outgo 5:1
+1018 hing 5:1
+1019 ship 5:9 1:1 7:1
+1020 quebec 5:1
+1021 europ 5:1 9:1
+1022 involv 5:1 2:1
+1023 product 5:1 8:1
+1024 dock 5:1
+1025 unload 5:2
+1026 pick 5:1 2:1
+1027 drive 5:3
+1028 easili 5:1
+1029 navig 5:2
+1030 vessel 5:3 9:1
+1031 shipment 5:1
+1032 destin 5:1
+1033 store 5:1
+1034 distanc 5:1
+1035 turn 5:4
+1036 unit 5:1
+1037 larg 2:3 9:2
+1038 undeni 5:1
+1039 proper 2:3 9:2
+1040 member 0:15
+1041 tri 0:6 8:1 7:1
+1042 announc 2:8 9:1
+1043 disregard 7:1
+1044 absolut 8:1 6:1 4:1
+1045 differ 8:1 0:1 3:1 9:1
+1046 advoc 2:4
+1047 april 2:6
+1048 overhead 2:3
+1049 novemb 2:2
+1050 numer 9:2 2:1
+1051 produc 8:1 0:1
+1052 unsustain 7:1 2:1
+1053 hot 2:1
+1054 reserv 8:1
+1055 versus 7:1
+1056 encourag 8:1 4:1 6:1
+1057 inconsist 8:1 1:1
+1058 growth 3:10 4:1
+1059 remov 1:8 2:2
+1060 accommod 2:3 6:2 7:1 5:1
+1061 conduct 7:2
+1062 emphas 8:1 9:1
+1063 sustain 8:1
+1064 lion 8:1
+1065 gate 8:1
+1066 ironwork 1:1 6:1
+1067 memori 2:1
+1068 queensborough 8:1 9:1
+1069 deeper 3:1
+1070 consist 9:2 7:1
+1071 smaller 2:2 9:1
+1072 mitig 8:1 3:1
+1073 insur 2:1
+1074 corp 8:1
+1075 statist 2:1
+1076 knight 8:1
+1077 difficulti 7:1
+1078 bill 9:1 2:1 1:1
+1079 mcnulti 7:1
+1080 hiccup 8:1
+1081 outspoken 2:1
+1082 proven 8:1
+1083 johnston 8:2
+1084 fear 0:2
+1085 manner 8:1
+1086 whatev 0:2
+1087 expedit 1:1
+1088 clean 8:2
+1089 mess 7:1
+1090 horror 7:2
+1091 alexa 2:1
+1092 sole 2:1
+1093 voic 8:3 0:3
+1094 slow 2:1
+1095 bureaucraci 7:1
+1096 wari 2:1
+1097 loom 5:2
+1098 inclin 0:2
+1099 tout 5:1 9:1
+1100 rule 6:1 4:1
+1101 believ 2:6
+1102 legislatur 6:5
+1103 westsid 5:2
+1104 kelowna 6:2
+1105 juan 6:2
+1106 fuca 6:2
+1107 set 6:1
+1108 stage 1:5
+1109 campaign 6:3 5:3
+1110 sit 6:2 7:1
+1111 thursday 0:7
+1112 hate 6:1
+1113 impli 2:1
+1114 wrong 9:2 6:1
+1115 polici 6:1
+1116 friday 9:4 0:2 5:1
+1117 muddl 6:1
+1118 decid 2:5
+1119 view 2:3 7:2 3:1
+1120 worst 5:4 9:2
+1121 rout 5:2 1:1
+1122 motiv 6:1
+1123 greg 2:2 6:1
+1124 moor 6:7 3:2
+1125 chair 2:4 9:3 0:1
+1126 district 6:1
+1127 plung 6:2
+1128 speak 0:6
+1129 consensus 5:1
+1130 auto 1:1
+1131 orient 1:2 6:1
+1132 pressur 2:2
+1133 presumptu 5:1
+1134 dialogu 6:1
+1135 suspect 5:1
+1136 excus 6:1
+1137 tanker 6:1
+1138 liquifi 0:1
+1139 natur 5:1
+1140 sector 5:1
+1141 join 0:2 7:1
+1142 divid 5:1
+1143 previous 2:15
+1144 ambival 7:1
+1145 twenti 5:1
+1146 dollar 9:5 6:1
+1147 kevin 9:2
+1148 falcon 5:1
+1149 gordon 6:1
+1150 basic 0:2 5:1 1:1
+1151 logic 0:1
+1152 frequent 2:2
+1153 despit 2:3 7:1
+1154 decri 2:2
+1155 research 2:6
+1156 superior 2:1
+1157 friend 2:1
+1158 factual 6:1
+1159 assert 5:1
+1160 faster 9:1
+1161 dispel 5:1
+1162 status 0:2
+1163 advic 0:2
+1164 newli 0:4
+1165 instal 0:1
+1166 taxpay 9:4 5:4 2:3
+1167 activ 3:2
+1168 hear 0:2 9:1
+1169 board 2:27 0:7 3:2
+1170 inquir 0:1
+1171 residenti 2:1
+1172 commerci 0:1
+1173 deleg 0:3
+1174 discus 0:9
+1175 clair 0:7
+1176 trevena 0:14
+1177 neil 0:3
+1178 dubord 0:3
+1179 assembl 0:4
+1180 cordial 0:1
+1181 gracious 0:1
+1182 lot 7:1 2:1 9:1
+1183 impress 2:1
+1184 file 8:2
+1185 grate 0:1
+1186 indefinit 0:1
+1187 reevalu 0:1
+1188 actual 2:2 0:2 9:1
+1189 extend 3:2 0:1 8:1
+1190 tabl 2:1
+1191 stanc 0:2
+1192 pair 8:1
+1193 strict 0:1
+1194 budget 9:4 7:3
+1195 unknown 0:1 1:1
+1196 understand 3:2 2:2 8:1
+1197 vocifer 2:1
+1198 attitud 0:1
+1199 quit 0:1
+1200 unbecom 8:1
+1201 opinion 7:4 8:1
+1202 perspect 7:1
+1203 detract 4:1
+1204 raymond 3:1
+1205 louie 2:2 7:1
+1206 michell 2:1
+1207 eliot 7:1
+1208 heard 8:1
+1209 unreason 3:2
+1210 feedback 3:2
+1211 gave 3:1
+1212 column 9:1
+1213 mike 7:1
+1214 harcourt 7:5
+1215 born 7:1
+1216 particip 7:1 9:1
+1217 share 5:2 8:1
+1218 farther 9:1
+1219 upstream 9:1
+1220 downstream 7:1 3:1 0:1
+1221 riski 9:1
+1222 mainten 7:3
+1223 retain 2:3
+1224 oxford 7:1
+1225 relay 7:1
+1226 worldwid 4:1
+1227 refer 7:1
+1228 accur 7:1
+1229 finish 9:3
+1230 evergreen 7:2
+1231 reinforc 5:1
+1232 perimet 9:1
+1233 deem 7:1
+1234 expert 9:6 5:1
+1235 invit 9:2
+1236 reader 7:1
+1237 visit 2:1
+1238 websit 9:2
+1239 masseytunnel 9:2
+1240 threaten 8:1
+1241 peril 8:1
+1242 backyard 8:1
+1243 hearten 7:1
+1244 prospect 7:1
+1245 check 6:1
+1246 perpetu 7:1
+1247 notwithstand 7:1
+1248 contrari 7:1
+1249 forget 7:1
+1250 unsaf 7:1
+1251 tear 7:1
+1252 gain 7:1
+1253 incorrect 7:2
+1254 fulli 5:1 0:1
+1255 principl 9:2 6:1
+1256 opt 2:1
+1257 timelin 7:1
+1258 dream 7:1
+1259 readi 7:4 2:1
+1260 inact 6:1
+1261 forgotten 7:1
+1262 email 2:1 4:1
+1263 straight 9:1
+1264 balanc 2:1 0:1
+1265 unveil 9:1
+1266 capit 5:2 7:1 0:1
+1267 freedom 9:2
+1268 reveal 9:3
+1269 unansw 9:1
+1270 miss 9:1
+1271 aman 9:1
+1272 singh 9:1
+1273 blank 2:3
+1274 fluff 9:1
+1275 hide 9:1
+1276 kilomet 9:1
+1277 truli 2:1
+1278 transpar 9:3 4:1
+1279 redact 9:1
+1280 outset 9:1
+1281 regular 9:2
+1282 post 9:2
+1283 qualifi 9:1
+1284 bid 8:1
+1285 team 9:2
+1286 financi 9:3
+1287 exampl 9:2 3:1
+1288 success 9:2
+1289 negoti 1:2
+1290 morn 9:3 1:3 5:1
+1291 depend 0:2 3:1
+1292 feder 4:10 2:2 9:1
+1293 referendum 4:1 2:1
+1294 free 7:2 3:2
+1295 head 1:1 2:1 0:1
+1296 adjust 2:1
+1297 spokesman 1:1
+1298 cabl 2:1 6:1
+1299 stay 0:2 7:1
+1300 west 3:3
+1301 carpool 2:1
+1302 tender 2:1
+1303 partner 7:2
+1304 guidelin 4:1
+1305 extra 9:2 5:1
+1306 height 7:1 1:1
+1307 clearanc 1:1
+1308 rough 1:1
+1309 equal 0:2 1:1
+1310 likewis 5:1
+1311 draft 5:1
+1312 larger 5:4
+1313 shallowest 4:1
+1314 channel 5:1
+1315 mouth 7:1
+1316 shallow 3:1
+1317 approach 9:2 7:2
+1318 launch 7:1
+1319 gather 1:2
+1320 forev 1:1
+1321 aspect 3:1
+1322 assumpt 3:1
+1323 urban 3:1 5:1
+1324 boundari 3:1
+1325 account 1:3
+1326 relev 2:1
+1327 likelihood 3:1
+1328 choic 0:2 3:1
+1329 household 3:1
+1330 substanti 3:1 8:1
+1331 shift 3:1 8:1
+1332 pursu 3:1 6:1
+1333 convers 3:2 0:2 5:1
+1334 incomplet 1:1
+1335 irrig 3:1
+1336 align 3:1
+1337 bisect 3:1
+1338 charact 3:1
+1339 visitor 3:3
+1340 debri 3:1
+1341 therebi 3:1
+1342 trail 3:1
+1343 diminish 3:1
+1344 tower 3:1
+1345 insuffici 2:4 3:1
+1346 util 3:8
+1347 suppli 3:7
+1348 liquid 3:2
+1349 lulu 3:3
+1350 brighous 3:1 0:1
+1351 branch 3:1
+1352 sewer 3:1 2:1
+1353 section 3:2
+1354 therefor 3:1
+1355 feed 3:1
+1356 adequ 3:1
+1357 monitor 3:2 4:1
+1358 protect 3:2
+1359 interrupt 3:1
+1360 servic 3:1
+1361 especi 1:1
+1362 attach 2:1 6:1
+1363 configur 3:1
+1364 concurr 3:1
+1365 model 3:1
+1366 hydraul 1:1
+1367 kilovolt 3:1
+1368 length 3:1
+1369 coincid 2:1
+1370 implement 3:1
+1371 proxim 3:1
+1372 leak 9:2
+1373 tripl 9:1
+1374 math 9:1
+1375 mega 9:1 6:1
+1376 payment 9:3
+1377 seri 9:1
+1378 bond 9:5
+1379 confidenti 2:1
+1380 shock 2:1
+1381 trust 9:1
+1382 fundament 2:1
+1383 loan 9:2
+1384 mortgag 2:3
+1385 exact 0:2 9:1
+1386 professor 9:2
+1387 milligan 9:4
+1388 inflat 9:2
+1389 mayb 9:1
+1390 uvic 9:1
+1391 kimber 9:1
+1392 speer 9:5
+1393 imposs 9:3
+1394 somewher 9:1 1:1
+1395 els 0:2 7:1
+1396 mire 9:1
+1397 resort 9:2
+1398 awar 9:2 4:1
+1399 africa 9:1
+1400 catch 9:1
+1401 america 9:1
+1402 ferri 9:1 5:1
+1403 frame 9:1
+1404 groundbreak 1:3
+1405 celebr 1:3
+1406 mark 0:1
+1407 photo 1:1
+1408 featur 1:1
+1409 politician 0:3
+1410 megaproject 1:1
+1411 backho 1:1
+1412 break 0:1 8:1
+1413 placard 1:1
+1414 megaphon 2:1
+1415 pretend 1:1
+1416 chequ 1:1
+1417 illog 1:1
+1418 monument 1:1
+1419 widespread 1:1
+1420 oblig 1:1
+1421 columbian 1:1
+1422 piec 1:1 4:1
+1423 entitl 1:1 2:1
+1424 dozen 1:2
+1425 spoke 1:1
+1426 collect 2:2 0:1
+1427 divert 2:2
+1428 prioriti 6:2 1:1
+1429 worth 1:1
+1430 compani 1:2
+1431 preliminari 1:1 2:1
+1432 preload 1:3
+1433 relax 1:1
+1434 bylaw 1:1
+1435 overnight 1:1
+1436 barrier 1:1
+1437 notifi 1:1
+1438 properti 1:2 5:1
+1439 owner 1:1
+1440 durat 1:1
+1441 varianc 1:2
+1442 meanwhil 1:1
+1443 vocal 2:2
+1444 protestor 1:1
+1445 insist 8:1
+1446 indoor 1:1
+1447 staunch 1:1
+1448 musqueam 2:1
+1449 lie 1:1
+1450 heart 1:1
+1451 territori 2:1
+1452 consent 2:1
+1453 illustr 8:1
+1454 pull 2:1
+1455 scientist 0:1
+1456 matter 8:2
+1457 sore 8:1
+1458 veteran 0:1
+1459 mere 0:1
+1460 fals 2:1
+1461 tomorrow 0:5
+1462 carla 0:4
+1463 qualtrough 0:4
+1464 gateway 0:4
+1465 white 0:3
+1466 chamber 0:6
+1467 chose 2:1
+1468 promot 2:2
+1469 harold 5:1
+1470 steve 9:4
+1471 spend 5:4 2:3
+1472 origin 9:1 8:1
+1473 weigh 1:1
+1474 pro 2:1
+1475 con 3:1
+1476 return 5:1
+1477 front 9:1
+1478 preserv 9:1
+1479 faith 8:1
+1480 funni 2:1
+1481 fed 4:1
+1482 subject 4:2 8:1
+1483 wrote 4:3
+1484 catherin 4:1
+1485 mckenna 4:5
+1486 canadian 4:1
+1487 regulatori 4:1
+1488 descript 4:1
+1489 agenc 4:2
+1490 obtain 2:2
+1491 fisheri 4:1
+1492 ocean 3:1
+1493 attent 4:1
+1494 robust 4:1
+1495 sport 3:1
+1496 cultur 3:1
+1497 conclud 4:1
+1498 advers 4:1 3:1
+1499 legal 3:2
+1500 bind 4:1
+1501 cover 5:2 4:1
+1502 aborigin 4:2
+1503 rocki 5:1
+1504 shortchang 1:1
+1505 unoffici 2:1
+1506 kick 2:2
+1507 ceremoni 5:2
+1508 flagship 5:1
+1509 employ 5:1 2:1
+1510 surpris 5:1
+1511 mill 2:1
+1512 mall 7:1
+1513 logist 5:1
+1514 gvbot 5:2
+1515 list 5:2
+1516 iain 5:1
+1517 black 5:4
+1518 broadway 5:1
+1519 millennium 5:1
+1520 jump 5:1
+1521 queue 5:1
+1522 nowher 5:1
+1523 wherea 5:2
+1524 jonathan 5:1
+1525 cote 5:1
+1526 behalf 1:1
+1527 unabl 2:1
+1528 formula 5:1
+1529 preclud 2:1
+1530 match 5:1
+1531 sourc 1:1
+1532 ticket 5:1
+1533 charg 5:1 3:1
+1534 deepen 5:1
+1535 afford 5:1 1:1
+1536 crisi 1:1
+1537 tax 5:1 6:1
+1538 overwhelm 1:1
+1539 car 5:4 9:2
+1540 immers 5:3 2:1
+1541 fixat 5:1
+1542 facilit 5:1
+1543 specif 6:1 5:1 0:1
+1544 opportun 0:1
+1545 appoint 0:3
+1546 minster 0:1
+1547 stori 8:1
+1548 nobodi 0:3
+1549 educ 0:1
+1550 bother 8:1
+1551 internet 8:2
+1552 fine 0:2
+1553 mine 0:1
+1554 blanket 7:1
+1555 kind 9:1 0:1 5:1
+1556 motion 2:2 9:1 0:1
+1557 langley 0:1
+1558 township 8:1
+1559 latest 2:1
+1560 ugli 8:1
+1561 pride 9:1
+1562 happen 6:4 0:2 5:1
+1563 troubl 0:1
+1564 chapter 4:1
+1565 bureaucrat 5:1 7:1
+1566 skill 7:1
+1567 send 2:2 5:1 0:1
+1568 chill 7:1
+1569 spine 7:1
+1570 imagin 8:2
+1571 ordinari 5:1
+1572 weekday 4:1
+1573 usual 5:1
+1574 slowli 6:1
+1575 trickl 4:1
+1576 shake 7:1
+1577 brittl 5:1
+1578 unstabl 5:1 0:1
+1579 buckl 8:1
+1580 mush 7:1
+1581 lost 5:1
+1582 dark 5:2
+1583 slam 6:1
+1584 brake 5:1
+1585 upward 8:1
+1586 muddi 5:1
+1587 gush 4:1
+1588 trap 5:1
+1589 moment 7:2
+1590 pump 4:1
+1591 whir 5:1
+1592 great 8:1 3:1
+1593 terror 8:1
+1594 scari 4:1
+1595 hit 4:1
+1596 verg 6:1
+1597 desir 5:1
+1598 fashion 7:1 8:1
+1599 neglect 5:1
+1600 activist 6:1
+1601 anywher 5:1
+1602 credit 7:1
+1603 problem 0:5 8:1
+1604 chokepoint 2:1
+1605 countri 4:1
+1606 fight 4:1
+1607 tooth 2:1
+1608 nail 4:1
+1609 safest 7:2
+1610 attend 7:1
+1611 guis 8:1
+1612 golden 7:1
+1613 ear 5:1
+1614 portfolio 5:1 0:1
+1615 preced 5:1
+1616 alway 6:3 0:1
+1617 someon 5:1
+1618 fault 5:1
+1619 ottawa 0:1
+1620 anti 4:1
+1621 chintzi 8:1
+1622 selfish 7:1 6:1
+1623 choos 8:1
+1624 revit 2:1
+1625 strateg 0:2 5:1
+1626 compet 5:1
+1627 effici 4:1
+1628 record 7:1
+1629 western 7:1
+1630 pray 6:1
+1631 roll 7:1
+1632 dice 5:1
+1633 rekindl 0:1
+1634 lobbi 0:1
+1635 stir 0:1
+1636 lukewarm 0:1
+1637 recept 0:1
+1638 urgent 0:2 6:1
+1639 enthusiast 0:1
+1640 unanim 0:1
+1641 pretti 5:1
+1642 somebodi 0:1 5:1
+1643 appendix 0:2
+1644 echo 2:1 0:1
+1645 phone 6:1
+1646 lessen 0:1
+1647 accus 0:1
+1648 toe 0:1
+1649 play 0:2
+1650 cours 6:2
+1651 cut 2:2
+1652 wide 6:1
+1653 liken 0:1 9:1
+1654 purchas 0:1
+1655 bought 0:1
+1656 magic 9:1
+1657 denni 2:1
+1658 paid 0:2
+1659 realm 0:1
+1660 prep 0:1
+1661 mint 2:1
+1662 unavail 0:1
+1663 print 0:1
+1664 deadlin 2:1
+1665 counc 2:1
+1666 understood 0:1
+1667 wed 2:1
+1668 envis 6:1
+1669 allevi 0:1
+1670 hang 6:1
+1671 doug 6:2
+1672 parton 6:4
+1673 unfold 2:1
+1674 game 0:1
+1675 alberta 2:1
+1676 laid 5:1
+1677 mention 6:2
+1678 throne 6:4
+1679 speech 6:4
+1680 station 6:1
+1681 valley 6:1
+1682 histor 6:1
+1683 root 6:1
+1684 coalit 6:1
+1685 watch 6:1
+1686 politick 2:1
+1687 determin 6:2 3:1
+1688 jeopardi 6:1
+1689 shaki 0:1
+1690 reconven 6:1
+1691 culmin 6:1
+1692 defeat 6:2
+1693 judith 8:1
+1694 guichon 8:1
+1695 persist 6:1
+1696 swing 6:1
+1697 demis 8:1
+1698 sake 6:1
+1699 asap 6:1
+1700 toss 6:1
+1701 asid 6:2
+1702 strengthen 6:1
+1703 northbound 6:1 0:1
+1704 necess 6:1
+1705 southbound 6:1
+1706 solv 2:1
+1707 incent 8:1
+1708 specul 8:1
+1709 revers 6:2
+1710 pass 6:1
+1711 background 2:1 8:1
+1712 assist 2:1
+1713 borrow 7:1
+1714 privat 9:1
+1715 pay 9:1
+1716 dodg 7:1
+1717 preconstruct 2:1
+1718 platform 2:1
+1719 livabl 6:1 0:1
+1720 pend 9:1
+1721 cooper 9:1
+1722 moot 6:1
+1723 steadfast 6:1
+1724 rooki 5:1
+1725 clarifi 5:1
+1726 reconsid 0:3
+1727 appar 5:1
+1728 seat 2:1
+1729 ridicul 2:2
+1730 plenti 6:1
+1731 friction 6:1
+1732 submerg 6:1
+1733 contend 0:1
+1734 slap 8:1
+1735 brand 6:1
+1736 beat 5:1
+1737 whatsoev 5:1
+1738 tonn 6:1
+1739 nightmar 2:1
+1740 sturgeon 5:1
+1741 gregor 9:1
+1742 robertson 9:2
+1743 deploy 9:1
+1744 acceler 9:1
+1745 enforc 6:1
+1746 anim 5:1
+1747 ecosystem 4:1 0:1
+1748 elimin 3:2
+1749 commonplac 4:1
+1750 churn 1:1
+1751 woe 1:1
+1752 bear 1:1
+1753 global 8:1
+1754 cherri 8:1
+1755 jerri 8:1
+1756 condemn 3:1
+1757 mislead 5:1
+1758 older 5:1
+1759 usabl 8:1
+1760 rotterdam 5:1
+1761 upriv 5:1
+1762 manipul 5:1
+1763 perfect 8:1
+1764 tweet 0:1
+1765 rot 0:1 5:1
+1766 danger 2:1
+1767 editori 5:1
+1768 derail 7:1
+1769 stress 6:1
+1770 necessarili 6:1
+1771 counsel 7:1
+1772 guid 0:1
+1773 shovel 2:1
+1774 deputi 6:1
+1775 cabinet 0:1
+1776 multitud 7:1
+1777 summar 5:1
+1778 extrem 5:1
+1779 stronger 0:1
+1780 starter 0:1
+1781 quot 0:1
+1782 stabil 8:1
+1783 reliev 7:1
+1784 firefight 0:1
+1785 paramed 6:1
+1786 colleagu 0:1
+1787 worthi 5:1
+1788 dealt 7:1
+1789 postpon 8:1
+1790 inher 8:1
+1791 purpos 2:1
+1792 maker 8:1
+1793 acut 8:1
+1794 exhaust 8:1
+1795 copi 9:1
+1796 demonstr 3:1
+1797 crucial 3:1
+1798 resolv 3:1
+1799 recreat 3:1
+1800 download 3:1
+1801 expenditur 2:1
+1802 ridership 3:1
+1803 genuin 1:1
+1804 roadway 3:1
+1805 committe 3:1
+1806 darrel 3:1
+1807 mussatto 3:1
+1808 decemb 3:1
