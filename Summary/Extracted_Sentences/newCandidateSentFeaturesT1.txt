@@ -1,0 +1,67 @@
+The new bridge and Highway 99 improvements will serve current and forecast demand for travel for many decades to come.	Sent POS: 9	Sent Len: 20	Topic Word: highway, improvement
+Importance of Public Transit	Sent POS: 30	Sent Len: 4	Topic Word: transit
+Resulting traffic paralysis would severely impact quality of life in North Delta, Surrey, and beyond.	Sent POS: 29	Sent Len: 15	Topic Word: life
+The new bridge also will serve as a lifeline structure in the event of a significant seismic event.	Sent POS: 11	Sent Len: 18	Topic Word: life
+Risk of a major earthquake is imminent – 30% chance in next 50 years.	Sent POS: 3	Sent Len: 14	Topic Word: major
+The tunnel has a higher than average crash rate and tunnel crashes tend to be more severe than crashes on open roads.	Sent POS: 8	Sent Len: 22	Topic Word: road, average
+The tunnel, which was opened in 1959, no longer meets current seismic guidelines and would need major maintenance in the next ten years if it were to remain open.	Sent POS: 29	Sent Len: 29	Topic Word: major
+The current 16 km trip from Ladner to Richmond Centre would become 36 km trip over Alex Fraser Bridge, 77 km over the Port Mann Bridge.	Sent POS: 22	Sent Len: 26	Topic Word: Fraser, Alex
+Likewise the depth of the river will likely not change, since there are no plans to dredge the river to increase the draft for larger ships, following the removal of the tunnel.	Sent POS: 33	Sent Len: 32	Topic Word: river
+It turns out the tunnel is not the shallowest point within the main shipping channel; the Steveston Cut at the mouth of the river is shallower.	Sent POS: 34	Sent Len: 26	Topic Word: river, Steveston
+Clearance for ships under the bridge will be 57 metres in height, roughly equal to the Alex Fraser Bridge just up river.	Sent POS: 32	Sent Len: 22	Topic Word: river, Fraser, Alex
+It is also expected to reduce crashes by 35 per cent, predict ministry officials.	Sent POS: 16	Sent Len: 14	Topic Word: reduce
+Improved environment – connecting portions of Deas Island Regional Park that are currently separated by the Tunnel infrastructure, improvements in Green Slough, bio-filtration of stormwater on the bridge, habitat enhancements on both sides of the bridge, lower per-trip fuel consumption, and reduced vehicle idling.	Sent POS: 22	Sent Len: 43	Topic Word: improvement, improved, reduce
+157,000 (80,000 from the tunnel and 77,000 from the Pattullo Bridge) vehicles/day would need an alternate crossing – Alex Fraser Bridge has no spare capacity.	Sent POS: 21	Sent Len: 25	Topic Word: Fraser, Alex
+And while it won't have a SkyTrain line, it will be built to potentially accommodate one some time in the future.	Sent POS: 22	Sent Len: 21	Topic Word: built
+It will likely be removed from the river bed, once it is closed, said Stone.	Sent POS: 30	Sent Len: 15	Topic Word: river
+Improved trade and commerce – with improved travel time reliability and improved access between Delta and Richmond distribution centres.	Sent POS: 19	Sent Len: 18	Topic Word: improved
+Economic and Quality of Life Impacts	Sent POS: 23	Sent Len: 6	Topic Word: life
+Travel time savings – the average commuter will save up to 30 minutes a day.	Sent POS: 16	Sent Len: 14	Topic Word: average
+The Project scope  includes a new bridge and related Highway 99 improvements between Bridgeport Road in Richmond and Highway 91 in Delta.	Sent POS: 1	Sent Len: 22	Topic Word: highway, improvement, road
+The new bridge will have a multi-use pathway for cyclists and pedestrians on the west side of the bridge, connecting to Steveston Highway and River Road South.	Sent POS: 19	Sent Len: 27	Topic Word: highway, road, river, Steveston, pedestrian
+Pedestrians and Cyclist Facilities	Sent POS: 34	Sent Len: 4	Topic Word: pedestrian
+8. Highway interchanges will be upgraded	Sent POS: 35	Sent Len: 6	Topic Word: highway, interchange
+In response to growing concerns about the impact of congestion, and recognizing that the existing tunnel has about 10 years of useful life remaining, the Province of British Columbia has committed to constructing a replacement crossing.	Sent POS: 8	Sent Len: 36	Topic Word: existing, life
+A new bridge would reduce collision rates by >35%	Sent POS: 10	Sent Len: 9	Topic Word: reduce
+The two main piers that will support the bridge will be build on land on both sides of the Fraser River, minimizing disturbance to the river.	Sent POS: 25	Sent Len: 26	Topic Word: river, Fraser
+Bridge project includes $500 million of new transit infrastructure: – 50 km of new dedicated transit/HOV lanes – Integrated transit stops – Space for future rapid transit – Dedicated transit on ramp.	Sent POS: 33	Sent Len: 32	Topic Word: transit
+Brooks says the concern is not just for life and death situations, but also for general road safety for the approximately 80,000 drivers who travel the Richmond-Delta corridor.	Sent POS: 7	Sent Len: 28	Topic Word: road, river, safety, life
+The new $3.5-billion-bridge will connect Richmond with Delta across the Fraser River.	Sent POS: 3	Sent Len: 12	Topic Word: river, Fraser
+This will improve safety and reduce Highway 99 congestion for motorists at this location.	Sent POS: 13	Sent Len: 14	Topic Word: highway, safety, reduce
+Improved transit – dedicated transit/HOV lanes between Bridgeport Road in Richmond and Highway 91 in Delta, new transit-only ramps at Bridgeport Road to improve access to Canada Line, and integrated transit stops at the Steveston Highway and Highway 17A interchanges.	Sent POS: 20	Sent Len: 39	Topic Word: highway, transit, road, improved, Steveston, interchange
+3. It should reduce congestion	Sent POS: 14	Sent Len: 5	Topic Word: reduce
+"The new bridge will improve highway safety, reduce greenhouse gas emissions from unnecessary idling, and save rush-hour commuters up to 30 minutes a day," said Stone.	Sent POS: 15	Sent Len: 26	Topic Word: highway, safety, reduce
+"This will be the largest bridge ever built in B.C. When completed, it will address what is now the worst traffic bottleneck in the province," said Minister Stone.	Sent POS: 12	Sent Len: 28	Topic Word: built
+Public Safety Risk – Collisions	Sent POS: 7	Sent Len: 5	Topic Word: safety
+Public Safety Risk – First Responders	Sent POS: 11	Sent Len: 6	Topic Word: safety
+The final price of the tolls will depend on a number of factors, including funding from the federal government and Port Metro Vancouver, and the final construction contracts, all of which have yet to be negotiated.	Sent POS: 7	Sent Len: 36	Topic Word: construction
+Improved safety – an estimated 35 per cent reduction in collisions.	Sent POS: 18	Sent Len: 10	Topic Word: safety, improved
+There is a possibility of loss of life if the tunnel experiences catastrophic displacements in a seismic event.	Sent POS: 12	Sent Len: 18	Topic Word: life
+Analysis has shown that the tunnel structure is fairly certain to be damaged in the design seismic event with or without ground improvements.	Sent POS: 2	Sent Len: 23	Topic Word: improvement
+“In the tunnel, there is obviously a confined space, which creates some health and safety concerns.	Sent POS: 4	Sent Len: 16	Topic Word: safety
+Three nearby highway interchanges along Highway 99 will be upgraded at 17A, Steveston and Westminster highways.	Sent POS: 36	Sent Len: 16	Topic Word: highway, Steveston, interchange
+Nevertheless the ministry expects drivers will willingly pay the toll for the free-flowing traffic on the bridge during rush hour, rather than deal with the congestion on the un-tolled Alex Fraser Bridge nearby.	Sent POS: 9	Sent Len: 33	Topic Word: river, Fraser, Alex
+Approximately 400,000 trips use the four Fraser River crossings each day. 	Sent POS: 19	Sent Len: 11	Topic Word: river, Fraser
+The bridge will be built directly above the existing tunnel, which will remain open during construction, but then decommissioned after the bridge is opened, said Stone.	Sent POS: 28	Sent Len: 26	Topic Word: existing, construction, built
+Construction is expected to begin in 2017, with the new bridge completed by 2022.	Sent POS: 4	Sent Len: 14	Topic Word: construction
+“Their recent report to council highlights one of the main reasons we’re moving ahead with the replacement of the tunnel – the safety of the travelling public who use this crossing every day.”	Sent POS: 9	Sent Len: 33	Topic Word: safety
+In a written statement, Transportation Minister Todd Stone estimates a new bridge over the Fraser River to replace the tunnel and upgrades to Highway 99 would drop collision numbers by 35 per cent.	Sent POS: 8	Sent Len: 32	Topic Word: highway, river, Fraser
+This includes transit reliability improvements and a pedestrian and cycling pathway to help increase use of non-car transportation alternatives.	Sent POS: 10	Sent Len: 19	Topic Word: improvement, transit, pedestrian
+The Ministry also has invested in short-term improvements, including lengthening the Steveston off-ramp on Highway 99 at the north end of the George Massey Tunnel.	Sent POS: 12	Sent Len: 25	Topic Word: highway, improvement, Steveston
+Improved cycling and pedestrian access – with a new multi-use pathway for cyclists and pedestrians that will provide safe and convenient access between Delta and Richmond and connect to the existing network at River Road in Delta and Steveston Highway in Richmond.	Sent POS: 21	Sent Len: 41	Topic Word: highway, existing, road, river, improved, Steveston, pedestrian
+Earthquake standards – The tunnel is designed to withstand a 1‐in‐275 year quake (6.5 magnitude – 18% probability of exceedance in 50 years).	Sent POS: 4	Sent Len: 23	Topic Word: standard
+The new bridge will provide pedestrian/cyclist connectivity between Delta and Richmond: Continuation of existing cycling networks at the only crossing with a broken cycling link 	Sent POS: 35	Sent Len: 25	Topic Word: existing, pedestrian
+First though, it needs to pass environmental and agricultural land reviews, and then go out for tender to find a construction partner.	Sent POS: 26	Sent Len: 21	Topic Word: construction
+The George Massey Tunnel is a key component of the regional and provincial transportation system, carrying an average of 80,000 vehicles each day.	Sent POS: 7	Sent Len: 23	Topic Word: average
+It is not technically feasible to upgrade the tunnel to meet current seismic standards.	Sent POS: 6	Sent Len: 14	Topic Word: standard
+The improvements to Highway 99 and the construction of the bridge are expected to take approximately 5 years to complete.	Sent POS: 10	Sent Len: 20	Topic Word: highway, improvement, construction
+Average of >300 collisions annually, 40% resulted in injury or fatality. 	Sent POS: 9	Sent Len: 11	Topic Word: average
+Existing bike shuttle does not operate on weekends in the winter months (Nov‐Mar) – Shuttle is very inefficient and is a limiting factor to public use yet still transports an average of 900 cyclists/month.	Sent POS: 36	Sent Len: 34	Topic Word: existing, average
+Travel time reliability – with no rush hour delays, and improved accessibility throughout the day.	Sent POS: 17	Sent Len: 14	Topic Word: improved
+A tunnel failure would sever a vital emergency response lifeline nearly 25 ambulance trips through the tunnel each day (6.3 of those trips are code 3 – lights and sirens).	Sent POS: 17	Sent Len: 30	Topic Word: life
+AM peak – 60% of trips to downtown Vancouver from South Delta and South Surrey are by transit.	Sent POS: 32	Sent Len: 18	Topic Word: transit
+There will also be improvement to the HOV lanes approaching the bridge, including a dedicated on-ramp at Bridgeport Road.	Sent POS: 37	Sent Len: 19	Topic Word: improvement, road
+The tunnel carries more transit passengers than any other non‐rapid transit crossing of the Fraser River: 10,000 riders/day, 1 bus every 3 minutes during rush hour 	Sent POS: 31	Sent Len: 26	Topic Word: transit, river, Fraser
+While some drivers may head to the Alex Fraser during weekend and evening, "most people will adjust back and forth," said a project spokesman at the briefing on Wednesday morning.	Sent POS: 10	Sent Len: 30	Topic Word: river, Fraser, Alex
+Construction is expected to begin in 2017 and take about five years to complete, meaning it will open in 2022 — if it is on time.	Sent POS: 24	Sent Len: 26	Topic Word: construction
+This would lead to major movements of the foundation soils and distortions of the tunnel tube.	Sent POS: 25	Sent Len: 16	Topic Word: major
