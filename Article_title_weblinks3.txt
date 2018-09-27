@@ -1,0 +1,95 @@
+about_project_PW.txt	About the Massey Tunnel Replacement Project	https://engage.gov.bc.ca/masseytunnel/why/	https://engage.gov.bc.ca/masseytunnel/projectbenefits/
+gmt.txt	George Massey Tunnel	https://en.wikipedia.org/wiki/George_Massey_Tunnel	
+analysisOf_MTRP_land.txt	Analysis of George Massey Tunnel Replacement Project	http://www.metrovancouver.org/media-room/media-releases/regional-planning/445/Metro%20Vancouver%20Releases%20Impact%20Assessment%20of%20George%20Massey%20Tunnel%20Replacement%20Project	http://www.metrovancouver.org/boards/GVRD/RD_2016-Jun-24_RCL.pdf
+gmtrp.txt	George Massey Tunnel Replacement Project	https://engage.gov.bc.ca/masseytunnel/	
+analysisOf_MTRP_env.txt	Analysis of George Massey Tunnel Replacement Project	http://www.metrovancouver.org/media-room/media-releases/regional-planning/445/Metro%20Vancouver%20Releases%20Impact%20Assessment%20of%20George%20Massey%20Tunnel%20Replacement%20Project	http://www.metrovancouver.org/boards/GVRD/RD_2016-Jun-24_RCL.pdf
+BC_NDP_questions_MTRP_N1.txt	BC NDP questions Massey Tunnel replacement project	http://www.news1130.com/2017/02/20/ndp-question-massey-tunnel-replacement	
+tunnel_history.txt	Tunnel History	https://engage.gov.bc.ca/masseytunnel/home/tunnel-history/	
+BC_NDP_sideMayorsOn_MTRP_GM.txt	BC NDP would side with mayors on Massey Tunnel replacement project	https://www.theglobeandmail.com/news/british-columbia/bc-ndp-would-side-with-mayors-on-massey-tunnel-replacement-project/article34341811	
+bridging_dGap_DO.txt	Bridging the gap	http://www.delta-optimist.com/opinion/bridging-the-gap-1.21145300	
+no_hurry.txt	B.C. government in no hurry to read report into Massey tunnel	https://vancouversun.com/news/politics/b-c-government-in-no-hurry-to-read-report-into-massey-tunnel	
+debt_addsTo_MTcost_CBC.txt	Debt could add $8 billion to Massey bridge cost, says NDP	http://www.cbc.ca/news/canada/british-columbia/massey-bridge-cost-1.4102339	
+future_gmt.txt	Delta mayoral candidates debate Massey Tunnel replacement as key election issue	https://www.cbc.ca/news/canada/british-columbia/delta-debate-municipal-election-transportation-1.4814891	
+delta_gets_bridgeMeeting_DO.txt	Delta gets bridge meeting	http://www.delta-optimist.com/news/delta-gets-bridge-meeting-1.21542969	
+gmt_cheaper.txt	Report states bridge replacement for Massey Tunnel could be cheaper than anticipated	https://www.cbc.ca/news/canada/british-columbia/massey-bridge-replacement-cost-1.4574831	
+delta_newBridge_bestSafest_VS.txt	Delta decries 'rotting' Massey tunnel, says new bridge best, safest option	http://vancouversun.com/news/local-news/delta-decries-rotting-massey-tunnel-says-new-bridge-best-safest-option	
+gmt.txt	George Massey Tunnel Replacement Project	http://www.delta.ca/your-government/external-projects-issues/george-massey-tunnel-replacement-project	
+delta_newBridge_toContinue_GN.txt	Delta wants work to continue on bridge replacement for Massey Tunnel	https://globalnews.ca/news/3581255/delta-massey-tunnel-bridge-replacement/	
+hope_gmt.txt	There's hope for the bridge, says Delta mayor	https://www.delta-optimist.com/news/there-s-hope-for-the-bridge-says-delta-mayor-1.23374185	
+delta_supports_newBridge_DO.txt	Delta making a case for bridge	http://www.delta-optimist.com/news/delta-making-a-case-for-bridge-1.21075609	
+waiting_game_gmt.txt	Waiting game for George Massey bridge report	https://www.richmond-news.com/news/waiting-game-for-george-massey-bridge-report-1.23317443	
+delta_urges_MT_continues_DO.txt	Delta urging bridge replacement project to proceed	http://www.delta-optimist.com/news/delta-urging-bridge-replacement-project-to-proceed-1.20954103	
+gmt_feasible.txt	Report concludes twinning Massey Tunnel is feasible	https://www.vancourier.com/news/report-concludes-twinning-massey-tunnel-is-feasible-1.23148792	
+deltaCouncil_swipes_Richmond_RN.txt	Delta council takes swipes at Richmond as bridge threatened	http://www.richmond-news.com/news/delta-council-takes-swipes-at-richmond-as-bridge-threatened-1.21245198	
+gmt_national_interest.txt	Ottawa bound: Delta argues bridge to replace Massey Tunnel is 'in the national interest'	https://www.vancourier.com/news/ottawa-bound-delta-argues-bridge-to-replace-massey-tunnel-is-in-the-national-interest-1.23308707	
+deltaMayor_concernedNDPnGreens_willKillMTRP_DO.txt	Delta mayor concerned NDP and Greens will kill bridge	http://www.delta-optimist.com/news/delta-mayor-concerned-ndp-and-greens-will-kill-bridge-1.20291322	
+ottawa_gmt_cash.txt	Delta mayor looks to Ottawa for Massey Tunnel replacement cash	https://globalnews.ca/news/4243094/massey-tunnel-replacement/	
+deltaMayor_defendsSupport_newBridge_CBC.txt	Delta mayor defends support for proposed bridge to replace Massey tunnel	http://www.cbc.ca/news/canada/british-columbia/delta-mayor-defends-support-for-proposed-bridge-to-replace-massey-tunnel-1.4196393	
+gmt_cheaper_budget.txt	New George Massey Bridge is $900 million cheaper than original estimates	http://dailyhive.com/vancouver/george-massey-tunnel-replacement-bridge-cost-march-2018	
+deltaMayor_dicussMTRPwith_MinTransport_PAN.txt	Delta mayor to discuss Massey Tunnel replacement with transportation minister	https://www.peacearchnews.com/news/delta-mayor-to-discuss-massey-tunnel-replacement-with-transportation-minister/	
+gmt_tech_review.txt	B.C. NDP government appoints engineer Stan Cowdell to review George Massey Tunnel	https://www.straight.com/news/989601/bc-ndp-government-appoints-engineer-stan-cowdell-review-george-massey-tunnel	
+deltaMayor_discuss_MT_mintransport_CR.txt	Delta mayor to discuss Massey Tunnel replacement with transportation minister	https://www.peacearchnews.com/news/delta-mayor-to-discuss-massey-tunnel-replacement-with-transportation-minister/	
+gmtrp.txt	George Massey Tunnel Replacement Project	https://www.hemmera.com/project/george-massey-tunnel-replacement-project/	
+deltaMayor_hasHopeFor_newBridge_DO.txt	Delta mayor has hope for bridge	http://www.delta-optimist.com/news/delta-mayor-has-hope-for-bridge-1.21724940	
+MLA_gmt.txt	Richmond MLA wants answers on Massey tunnel	https://www.vancouverisawesome.com/2018/08/30/richmond-mla-massey-tunnel/	
+feds_saysNoTo_envReviewOf_MTRP_VS.txt	Feds say no to environmental review of Massey Tunnel replacement project	http://vancouversun.com/news/local-news/feds-say-no-to-environmental-review-of-massey-tunnel-replacement-project	
+gmtrp.txt	George Massey Tunnel Replacement Project	https://www.portvancouver.com/about-us/topics-of-interest/george-massey-tunnel-replacement/	
+financingCost_newBridge_VS.txt	Financing costs for Massey Tunnel replacement total $8 billion on $3.5-billion project	http://vancouversun.com/news/local-news/financing-costs-for-massey-tunnel-replacement-total-8-billion-on-3-5-billion-project	
+gmt_ndp.txt	The NDP Government cancelled the George Massey tunnel replacement just as construction was about to begin	https://www.get2yes.icba.ca/projects/george-massey-bridge	
+getExperts_review_MT_DO.txt	Get global experts to review tunnel	http://www.delta-optimist.com/opinion/letters/get-global-experts-to-review-tunnel-1.21366364	
+govtChange_rekindles_MTdebate_SNL.txt	Change in government rekindles Massey Bridge debate	https://www.surreynowleader.com/news/change-in-government-rekindles-massey-bridge-debate/	
+gmt_funding.txt	Delta could replace Massey Tunnel using federal and third-party funding	https://www.surreynowleader.com/news/delta-could-replace-massey-tunnel-using-federal-and-third-party-funding/	
+halt_MT_richmond_to_premier_VS.txt	Richmond urges premier to halt Massey tunnel replacement bridge	http://vancouversun.com/news/local-news/richmond-council-discusses-twinning-the-massey-tunnel	
+gmt.txt	George Massey Tunnel Replacement	http://binnie.com/civil-engineering-consultancy/replacing-george-massey-tunnel	
+liberals_committedTo_newBridge_DO.txt	Liberals are still committed to bridge	http://www.delta-optimist.com/news/liberals-are-still-committed-to-bridge-1.20797958	
+mayors_reject_MT_CBC.txt	Metro Vancouver Mayors reject replacement of Massey Tunnel with 10 lane bridge	http://www.cbc.ca/news/canada/british-columbia/metro-vancouver-george-massey-tunnel-rejects-1.3658013	
+gmt_crash.txt	Driver going wrong way in Massey Tunnel before serious crash: RCMP	https://bc.ctvnews.ca/driver-going-wrong-way-in-massey-tunnel-before-serious-crash-rcmp-1.3859339	
+metroVan_asks_BCgovt_statusUpdate_MT_SC.txt	Metro Vancouver to ask BC NDP government about status of bridge replacement for George Massey Tunnel	https://www.straight.com/news/942006/metro-vancouver-ask-bc-ndp-government-about-status-bridge-replacement-george-massey	
+gmt_onhold.txt	B.C. government puts George Massey Tunnel project on hold while review is completed	https://www.theglobeandmail.com/news/british-columbia/bc-government-puts-george-massey-tunnel-project-on-hold-while-review-is-completed/article36193130/	
+metroVan_wantsTo_studyImpact_MT_CBC.txt	Massey Tunnel replacement: Metro Vancouver board wants more time to study impacts	http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-metro-vancouver-1.3452899	
+gmt_cheaper.txt	George Massey Tunnel replacement could have been cheaper than expected	https://www.abbynews.com/news/george-massey-tunnel-replacement-could-have-been-cheaper-than-expected/	
+MT_brings_criticsProtesters_CBC.txt	Massey Tunnel replacement project brings out critics and protesters	http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project-brings-out-critics-and-protesters-1.3512619	
+gmt_estimate.txt	Ten-Lane Bridge Best Solution to George Massey Tunnel Congestion	http://www.pcac.ca/ten-lane-bridge-best-solution-to-george-massey-tunnel-congestion/	
+MT_mustbe_replaced_DO.txt	Massey Tunnel must be replaced	http://www.delta-optimist.com/news/massey-tunnel-must-be-replaced-1.21075594	
+gmt_meeting.txt	Delta mayor: Massey bridge meeting with minister a ‘positive’ experience	https://www.cloverdalereporter.com/news/delta-mayor-massey-bridge-meeting-with-minister-a-positive-experience/	
+MT_toBe_replaced_CBC.txt	Massey Tunnel to be replaced with BC's largest toll bridge	http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-bridge-1.3367368	
+gmt_paused.txt	B.C. pauses Massey bridge work to conduct new review	https://www.cloverdalereporter.com/news/b-c-government-pausing-massey-tunnel-project-to-conduct-new-review/	
+MTPR_letsAvoid_anotherSadChapter_TP.txt	Massey Tunnel: Let’s avoid another sad chapter in our ‘do nothing novel’	http://theprovince.com/opinion/op-ed/george-massey-avoiding-another-sad-chapter-in-our-do-nothing-novel	
+gmt_delta_partner.txt	Delta to be a partner for Massey Tunnel replacement, not an ‘adversary’	https://www.cloverdalereporter.com/news/delta-to-be-a-partner-for-massey-tunnel-replacement-not-an-adversary/	
+MTRP_given_environmentalBacking_GN.txt	Massey Tunnel replacement project given environmental green light	https://globalnews.ca/news/3239775/massey-tunnel-replacement-project-given-environmental-green-light/	
+gmtrp.txt	George Massey Tunnel Replacement Project	https://www.roadtraffic-technology.com/projects/george-massey-tunnel-replacement-project-british-columbia/	
+MTRP_officiallyBegins_JC.txt	BC’s Massey tunnel replacement project officially begins	http://preprod.journalofcommerce.com/Projects/News/2017/4/BCs-Massey-tunnel-replacement-project-officially-begins-1023236W/	
+gmt_costless.txt	Bridge to replace Massey Tunnel could cost less than previously thought, says City of Delta	https://biv.com/article/2018/03/bridge-replace-massey-tunnel-could-cost-less-previously-thought-says-city-delta	
+MTRP_rockyStart_BIV.txt	Massey tunnel replacement project off to a rocky start	https://www.biv.com/article/2017/4/massey-tunnel-replacement-project-rocky-start/	
+gmt_regional_links.txt	Getting through the George Massey Tunnel	https://bikehub.ca/regional-links-connections	
+newBridge_bestOption_MT_VS.txt	Bridge is best replacement for Massey Tunnel	http://vancouversun.com/opinion/opinion-bridge-is-best-replacement-for-massey-tunnel	
+gmt.txt	George Massey Tunnel	https://latitude.to/articles-by-country/ca/canada/40996/george-massey-tunnel	
+newBridge_holdsFirm_Ministry_DO.txt	Footings for George Massey Tunnel replacement bridge will hold firm, says ministry	http://www.delta-optimist.com/news/footings-for-george-massey-tunnel-replacement-bridge-will-hold-firm-says-ministry-1.13521495	
+gmt_taxpayers.txt	How BC Taxpayers Ended Up Paying for the $3.5-Billion Massey Bridge	https://thetyee.ca/Opinion/2017/02/23/BC-Taxpayers-Pay-for-Massey-Bridge/	
+newBridge_inJeopardy_DO.txt	Bridge project in jeopardy	http://www.delta-optimist.com/news/bridge-project-in-jeopardy-1.20692215	
+gmt_cancel.txt	WIN! BC government cancels construction on George Massey bridge project	https://canadians.org/blog/win-bc-government-cancels-construction-george-massey-bridge-project	
+newSpan_toMeet_MTRP_concerns_N1.txt	New span promised to meet first responders’ Massey Bridge concerns	http://www.news1130.com/2016/11/16/new-bridge-promised-first-responders-massey-tunnel-concerns/	
+gmt_bid.txt	Three teams shortlisted for George Massey replacement bid	https://www.bridgeweb.com/Three-teams-shortlisted-for-George-Massey-replacement-bid/4151	
+proposed_bridge_toreplace_MT_CBC.txt	What is going to happen to the bridge proposed to replace the Massey Tunnel	http://www.cbc.ca/news/canada/british-columbia/massey-bridge-futre-1.4176042	
+gmt_delta_support.txt	Delta continues to support a replacement bridge as only viable alternative to George Massey Tunnel	http://www.voiceonline.com/continues-replacement-alternative/	
+protesters_crash_groundBreaking_newBridge_CBC.txt	Protesters crash groundbreaking for bridge to replace Massey Tunnel	http://www.cbc.ca/news/canada/british-columbia/bridge-george-massey-tunnel-protest-1.4057172	
+gmt_env.txt	Environmental Stamp of Approval for George Massey Tunnel Replacement	https://bctrucking.com/bulletin/2017/02/20/environmental-stamp-approval-george-massey-tunnel-replacement	
+publicSafety_economicImpact_MTRP_DC.txt	The Public Safety and Economic Imperative for the George Massey Tunnel Replacement Project	http://www.delta.ca/docs/default-source/office-of-the-chief-administrative-officer/final-july-10-council---massey-tunnel-powerpoint.pdf?sfvrsn=0	
+gmt_opinion.txt	Opinion: Massey Tunnel needs replacement right now	https://www.boardoftrade.com/news/45-news/2016/781-opinion-need-massey-tunnel-replacement-now	
+reconsider_MT_metroBoard_24V.txt	Metro board asks new government to reconsider Massey Tunnel project	http://vancouversun.com/news/local-news/metro-board-asks-new-govt-to-reconsider-massey-tunnel-project	
+gmt_comment.txt	Send in your comments on The Environmental Assessment of the George Massey Tunnel Replacement Project	http://www.burnsbog.org/send-in-your-comments-on-the-project-definition-report-pdr-for-the-george-massey-tunnel-replacement-project/	
+richmond_delta_disagree_MT_JC.txt	Richmond and Delta worlds apart on Massey Tunnel project	http://preprod.journalofcommerce.com/Infrastructure/News/2017/8/Richmond-and-Delta-worlds-apart-on-Massey-Tunnel-project-1026085W/	
+gmt_design_details.txt	B.C. government releases cost and design details of George Massey Tunnel replacement	https://www.bcbusiness.ca/bc-government-releases-cost-and-design-details-of-george-massey-tunnel	
+richmond_highlights_gapsIn_MT_CBC.txt	City of Richmond report highlights ‘significant gaps’ in Massey Tunnel replacement plans	http://www.cbc.ca/news/canada/british-columbia/city-of-richmond-report-highlights-significant-gaps-in-massey-tunnel-replacement-plans-1.3760041	
+richmond_newDirection_onMT_CBC.txt	Richmond councillor wants NDP to take new direction on proposed bridge to replace Massey Tunnel	http://www.cbc.ca/news/canada/british-columbia/massey-bridge-replacement-tunnel-richmond-delta-1.4192349	
+silent_majority_DO.txt	Silent majority must let Horgan know	http://www.delta-optimist.com/opinion/letters/silent-majority-must-let-horgan-know-1.20967601	
+uncertainFuture_newBridge_DO.txt	Uncertain future for bridge	http://www.delta-optimist.com/news/uncertain-future-for-bridge-1.20351000	
+useBarges_ease_MTcongestion_CBC.txt	Use barges to ease Massey Tunnel congestion, says BC longshoreman	http://www.cbc.ca/news/canada/british-columbia/longshoreman-traffic-congestion-1.4204415	
+vancouverMayor_against_newBridge_N1.txt	Vancouver's mayor maintains position against Massey Replacement Bridge	http://www.news1130.com/2017/07/07/vancouvers-mayor-maintains-position-massey-replacement-bridge/	
+work_underway_newBridge_DO.txt	Work finally underway on $3.5 billion bridge	http://www.delta-optimist.com/news/work-finally-underway-on-3-5b-bridge-1.15377051	
+gmt_brakes.txt	Put Brakes On Proposed Massey Tunnel Replacement Bridge	https://www.huffingtonpost.ca/dermodtravis/massey-tunnel-replacement_b_10802930.html	
+prelecture_diagrams.txt	Pre-lecture diagrams help students take better notes, learn more	https://www.sciencedaily.com/releases/2015/06/150609213436.htm	
+toxic_env.txt	Standardized testing creates 'toxic environment' in schools, professor says	https://www.sciencedaily.com/releases/2013/04/130416102122.htm	
+student_cheating.txt	Epidemic Of Student Cheating Can Be Cured With Changes In Classroom Goals	https://www.sciencedaily.com/releases/2009/08/090810025249.htm	
+teachers_assessment.txt	Teachers' assessments not always conducive to fair education, researcher says	https://www.sciencedaily.com/releases/2013/04/130415095927.htm	
+school_env.txt	School environment affects teacher expectations of their students	https://www.sciencedaily.com/releases/2014/11/141103113603.htm	
